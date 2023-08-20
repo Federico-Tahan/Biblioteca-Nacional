@@ -1,0 +1,14 @@
+.title
+{
+    border: 1px solid red;
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.container
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;    
+}
